@@ -1,0 +1,16 @@
+name        = Survey
+description = Survey theme
+screenshot  = images/pic.jpg
+core        = 7.x
+engine      = phptemplate
+
+stylesheets[all][] = bower_components/bootstrap/dist/css/bootstrap.min.css
+stylesheets[all][] = css/main.css
+
+scripts[] = bower_components/jquery/dist/jquery.min.js
+scripts[] = bower_components/bootstrap/dist/js/bootstrap.min.js
+scripts[] = bower_components/modernizr/modernizr.js
+
+regions[content]        = Content
+
+; features[] = favicon
