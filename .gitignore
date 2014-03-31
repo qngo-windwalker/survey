@@ -7,3 +7,5 @@ sites/*/private
 
 .idea/
 .idea/*
+
+db
