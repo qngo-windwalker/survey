@@ -1,0 +1,7 @@
+name = Windwalker
+description = Custom module for Windwalker Corp.
+package = Other
+core = 7.x
+
+
+

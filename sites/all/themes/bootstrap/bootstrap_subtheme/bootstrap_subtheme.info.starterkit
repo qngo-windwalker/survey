@@ -1,5 +1,5 @@
-name = Bootstrap Sub-theme Survey
-description = A Bootstrap Sub-theme Survey.
+name = Bootstrap Sub-theme
+description = A Bootstrap Sub-theme.
 core = 7.x
 base theme = bootstrap
 

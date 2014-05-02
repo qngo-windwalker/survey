@@ -1,0 +1,24 @@
+<?php
+// $Id$
+
+/**
+ * @wind.module
+ * Main module file for Windwalker
+ */
+
+/**
+ * Implementation of hook_perm().
+ *
+ * This function takes 0 arguments, and returns an array of permissions
+ * defined by our module. Our permissions are automatically made available
+ * under admin/user/permissions.
+ */
+function wind_permission(){
+
+    return array(
+        'administer Windwalker' => array(
+            'title' => t('Administer Windwalker'),
+            'description' => t('Perform administration tasks for my module.'),
+        ),
+    );
+}
