@@ -6,3 +6,10 @@
 /* Override bootstrap conflict */
 .fade {opacity: 1;}
 #block-devel-execute-php .collapse {display: block;}
+
+
+.footer { background: #333; color: #bfbfbf;}
+
+.node-type-webform #site-header{padding-top: 40px;}
+.node-type-webform .form-item{margin-bottom: 20px;}
+.node-type-webform #edit-next{ background: #428bca; color: white; border-color: #357ebd; }

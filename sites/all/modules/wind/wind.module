@@ -22,3 +22,86 @@ function wind_permission(){
         ),
     );
 }
+
+/**
+ * Implementation of user_view().
+ */
+function wind_user_view($account, $view_mode, $langcode){
+//    echo $account->roles[3];
+//    $markup =  theme('foo', array('fuck' => 'you'));
+    $markup =  theme('foo', $account->roles);
+
+    $account->content['summary']['role'] = array(
+        '#type' => 'user_profile_item',
+        '#title' => t('Role'),
+        '#markup' => $markup,
+//        '#markup' => t($account->roles[3]),
+    );
+
+    dsm($account);
+}
+
+/**
+ * Implementation of hook_theme().
+ *
+ * hook_theme is required to register our themeable (overrideable) output
+ * wit Drupal's theme system.
+ */
+function wind_theme(){
+    return array(
+        'foo' => array(
+            'variables' => array('account' => NULL),
+        ),
+    );
+}
+
+/**
+ * Default theme output for 'foo'.
+ *
+ * Any time we create themeable output, we must provide the default
+ * implementation (that can be later overridden by themers).
+ */
+function theme_foo($variables){
+//    return t('You role: ' .  $variables->roles[3]);
+    return t('Your role: ' . $variables[3]);
+}
+
+/**
+ * Implementation of hook_menu()
+ *
+ */
+function wind_menu(){
+    $items = array();
+
+    $items['admin/config/system/windwalker'] = array(
+        'title' => 'Windwalker settings',
+        'description' => 'Configuration for the Wind module.',
+        'page callback' => 'wind_admin_settings',
+        'access arguments' => array('administer site configuration')
+    );
+
+    $items['user/%user/wind'] = array(
+        'title' => 'Wind',
+        'page callback' => 'wind_user_page',
+        'page arguments' => array(1), // the index num of $items which in this case is %user
+        'access arguments' => array('wind_user_access'),
+        'file' => 'wind.pages.inc',
+        'type' => MENU_LOCAL_TASK,
+        'weight' => -10,
+    );
+
+    dsm($items);
+
+    return $items;
+}
+
+function wind_admin_settings(){
+    return 'hello world.';
+}
+/*
+ *
+function wind_user_page($arguments){
+    dsm($arguments);
+    return 'What is this?' . $arguments->name;
+}
+ */

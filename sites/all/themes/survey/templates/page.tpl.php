@@ -163,17 +163,19 @@
 
   </div>
 </div>
-<footer class="footer container">
-    <?php print render($page['footer']); ?>
-    <div class="row">
-        <div class="col-sm-4">
-            <?php print render($page['footer_left']); ?>
-        </div>
-        <div class="col-sm-4">
-            <?php print render($page['footer_middle']); ?>
-        </div>
-        <div class="col-sm-4">
-            <?php print render($page['footer_right']); ?>
+<footer class="footer">
+    <div class="container">
+        <?php print render($page['footer']); ?>
+        <div class="row">
+            <div class="col-sm-4">
+                <?php print render($page['footer_left']); ?>
+            </div>
+            <div class="col-sm-4">
+                <?php print render($page['footer_middle']); ?>
+            </div>
+            <div class="col-sm-4">
+                <?php print render($page['footer_right']); ?>
+            </div>
         </div>
     </div>
 </footer>
