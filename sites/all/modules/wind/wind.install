@@ -1,0 +1,99 @@
+<?php
+// $Id$
+/**
+ * @file
+ * Install file for Wind module
+ */
+
+/**
+ * Implementation of hook_schema().
+ *
+ * Steps:
+ * Go to myPhpAdmin and create the field.
+ * Install Schema module
+ * Go to structure/schema/settings -> Inspect tab. Look for your field in the Unknown box.
+ * Copy the schema array to hook_schema().
+ */
+
+function wind_schema(){
+    $schema = array();
+
+    $schema['wind'] = array(
+        'description' => 'Contain Windwalker information',
+        'fields' => array(
+            'wind_id' => array(
+                'description' => 'The {user}.id. ',
+                'type' => 'int',
+                'unsigned' => TRUE,
+                'not null' => TRUE,
+                'default' => 0,
+            ),
+            'profile_id' => array(
+                'description' => 'The {user}.id.',
+                'type' => 'int',
+                'unsigned' => TRUE,
+                'not null' => TRUE,
+                'default' => 0,
+            ),
+            'view_count' => array(
+                'description' => 'The count information.',
+                'type' => 'int',
+                'unsigned' => TRUE,
+                'not null' => TRUE,
+                'default' => 0,
+            ),
+            'last_view' => array(
+                'description' => 'The last form viewed.',
+                'type' => 'int',
+                'unsigned' => TRUE,
+                'not null' => TRUE,
+                'default' => 0,
+            ),
+        ),
+        'primary key' => array(
+            'wind_id',
+            'profile_id'
+        ),
+    );
+
+    return $schema;
+}
+
+/**
+ * Implementation of hook_install().
+ */
+/*
+function wind_install(){
+     drupal_install_schema('wind'); // Drupal 6.
+}
+ */
+
+/**
+ * Implementation of hook_uninstall().
+ */
+function wind_uninstall(){
+//    drupal_uninstall_schema('wind'); // Drupal 6.
+    // Delete the wind field from the database.
+    variable_del('wind');
+}
+
+/**
+ * Implementation of update hook
+ */
+function wind_update_7001() {
+
+    if (!db_field_exists('wind', 'last_view')) {
+        db_add_field(
+            'wind',
+            'last_view',
+            array(
+                'description' => 'The last form viewed.',
+                'type' => 'int',
+                'unsigned' => TRUE,
+                'default' => 0,
+                'not null' => TRUE,
+                'default' => 0,
+            )
+        );
+    }
+}

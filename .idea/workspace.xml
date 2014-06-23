@@ -1,0 +1,1274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="582ce23a-d346-42e8-815a-eab515f7f60d" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\xampp\htdocs\workspace\survey\website\drupal-7.26\sites\all\modules\jquery_update\replace\misc\1.7\states.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\workspace\survey\website\drupal-7.26\sites\all\modules\jquery_update\replace\ui\themes\base\minified\jquery.ui.all.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\workspace\survey\website\drupal-7.26\sites\all\modules\jquery_update\replace\ui\themes\base\minified\jquery.ui.base.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\workspace\survey\website\drupal-7.26\sites\all\modules\jquery_update\replace\ui\ui\i18n\jquery.ui.datepicker-kz.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\workspace\survey\website\drupal-7.26\sites\all\modules\jquery_update\replace\ui\ui\jquery.effects.blind.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\workspace\survey\website\drupal-7.26\sites\all\modules\jquery_update\replace\ui\ui\jquery.effects.bounce.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\workspace\survey\website\drupal-7.26\sites\all\modules\jquery_update\replace\ui\ui\jquery.effects.clip.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\workspace\survey\website\drupal-7.26\sites\all\modules\jquery_update\replace\ui\ui\jquery.effects.core.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\workspace\survey\website\drupal-7.26\sites\all\modules\jquery_update\replace\ui\ui\jquery.effects.drop.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\workspace\survey\website\drupal-7.26\sites\all\modules\jquery_update\replace\ui\ui\jquery.effects.explode.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\workspace\survey\website\drupal-7.26\sites\all\modules\jquery_update\replace\ui\ui\jquery.effects.fade.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\workspace\survey\website\drupal-7.26\sites\all\modules\jquery_update\replace\ui\ui\jquery.effects.fold.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\workspace\survey\website\drupal-7.26\sites\all\modules\jquery_update\replace\ui\ui\jquery.effects.highlight.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\workspace\survey\website\drupal-7.26\sites\all\modules\jquery_update\replace\ui\ui\jquery.effects.pulsate.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\workspace\survey\website\drupal-7.26\sites\all\modules\jquery_update\replace\ui\ui\jquery.effects.scale.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\workspace\survey\website\drupal-7.26\sites\all\modules\jquery_update\replace\ui\ui\jquery.effects.shake.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\workspace\survey\website\drupal-7.26\sites\all\modules\jquery_update\replace\ui\ui\jquery.effects.slide.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\workspace\survey\website\drupal-7.26\sites\all\modules\jquery_update\replace\ui\ui\jquery.effects.transfer.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\workspace\survey\website\drupal-7.26\sites\all\modules\jquery_update\replace\ui\ui\minified\i18n\jquery.ui.datepicker-kz.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\workspace\survey\website\drupal-7.26\sites\all\modules\jquery_update\replace\ui\ui\minified\jquery.effects.blind.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\workspace\survey\website\drupal-7.26\sites\all\modules\jquery_update\replace\ui\ui\minified\jquery.effects.bounce.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\workspace\survey\website\drupal-7.26\sites\all\modules\jquery_update\replace\ui\ui\minified\jquery.effects.clip.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\workspace\survey\website\drupal-7.26\sites\all\modules\jquery_update\replace\ui\ui\minified\jquery.effects.core.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\workspace\survey\website\drupal-7.26\sites\all\modules\jquery_update\replace\ui\ui\minified\jquery.effects.drop.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\workspace\survey\website\drupal-7.26\sites\all\modules\jquery_update\replace\ui\ui\minified\jquery.effects.explode.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\workspace\survey\website\drupal-7.26\sites\all\modules\jquery_update\replace\ui\ui\minified\jquery.effects.fade.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\workspace\survey\website\drupal-7.26\sites\all\modules\jquery_update\replace\ui\ui\minified\jquery.effects.fold.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\workspace\survey\website\drupal-7.26\sites\all\modules\jquery_update\replace\ui\ui\minified\jquery.effects.highlight.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\workspace\survey\website\drupal-7.26\sites\all\modules\jquery_update\replace\ui\ui\minified\jquery.effects.pulsate.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\workspace\survey\website\drupal-7.26\sites\all\modules\jquery_update\replace\ui\ui\minified\jquery.effects.scale.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\workspace\survey\website\drupal-7.26\sites\all\modules\jquery_update\replace\ui\ui\minified\jquery.effects.shake.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\workspace\survey\website\drupal-7.26\sites\all\modules\jquery_update\replace\ui\ui\minified\jquery.effects.slide.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\workspace\survey\website\drupal-7.26\sites\all\modules\jquery_update\replace\ui\ui\minified\jquery.effects.transfer.min.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/AUTHORS.txt" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/AUTHORS.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.txt" afterPath="$PROJECT_DIR$/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/update/tests/aaa_update_test.info" afterPath="$PROJECT_DIR$/modules/update/tests/aaa_update_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/actions_loop_test.info" afterPath="$PROJECT_DIR$/modules/simpletest/tests/actions_loop_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/aggregator/aggregator.info" afterPath="$PROJECT_DIR$/modules/aggregator/aggregator.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/aggregator/aggregator.install" afterPath="$PROJECT_DIR$/modules/aggregator/aggregator.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/aggregator/aggregator.test" afterPath="$PROJECT_DIR$/modules/aggregator/aggregator.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/aggregator/tests/aggregator_test.info" afterPath="$PROJECT_DIR$/modules/aggregator/tests/aggregator_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/ajax.inc" afterPath="$PROJECT_DIR$/includes/ajax.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/ajax.js" afterPath="$PROJECT_DIR$/misc/ajax.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/ajax.test" afterPath="$PROJECT_DIR$/modules/simpletest/tests/ajax.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/ajax_forms_test.info" afterPath="$PROJECT_DIR$/modules/simpletest/tests/ajax_forms_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/ajax_test.info" afterPath="$PROJECT_DIR$/modules/simpletest/tests/ajax_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/bartik/bartik.info" afterPath="$PROJECT_DIR$/themes/bartik/bartik.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/batch_test.info" afterPath="$PROJECT_DIR$/modules/simpletest/tests/batch_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/update/tests/bbb_update_test.info" afterPath="$PROJECT_DIR$/modules/update/tests/bbb_update_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/block/block.api.php" afterPath="$PROJECT_DIR$/modules/block/block.api.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/block/block.info" afterPath="$PROJECT_DIR$/modules/block/block.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/block/tests/block_test.info" afterPath="$PROJECT_DIR$/modules/block/tests/block_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/block/tests/themes/block_test_theme/block_test_theme.info" afterPath="$PROJECT_DIR$/modules/block/tests/themes/block_test_theme/block_test_theme.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/blog/blog.info" afterPath="$PROJECT_DIR$/modules/blog/blog.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/book/book.info" afterPath="$PROJECT_DIR$/modules/book/book.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/bootstrap.inc" afterPath="$PROJECT_DIR$/includes/bootstrap.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/update/tests/ccc_update_test.info" afterPath="$PROJECT_DIR$/modules/update/tests/ccc_update_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/devel/krumo/class.krumo.php" afterPath="$PROJECT_DIR$/sites/all/modules/devel/krumo/class.krumo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/color/color.info" afterPath="$PROJECT_DIR$/modules/color/color.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/comment/comment.info" afterPath="$PROJECT_DIR$/modules/comment/comment.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/comment/comment.module" afterPath="$PROJECT_DIR$/modules/comment/comment.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/common.inc" afterPath="$PROJECT_DIR$/includes/common.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/common.test" afterPath="$PROJECT_DIR$/modules/simpletest/tests/common.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/common_test.info" afterPath="$PROJECT_DIR$/modules/simpletest/tests/common_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/common_test_cron_helper.info" afterPath="$PROJECT_DIR$/modules/simpletest/tests/common_test_cron_helper.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/contact/contact.info" afterPath="$PROJECT_DIR$/modules/contact/contact.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/contextual/contextual.info" afterPath="$PROJECT_DIR$/modules/contextual/contextual.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/dashboard/dashboard.info" afterPath="$PROJECT_DIR$/modules/dashboard/dashboard.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/database/database.inc" afterPath="$PROJECT_DIR$/includes/database/database.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/database/mysql/database.inc" afterPath="$PROJECT_DIR$/includes/database/mysql/database.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/database/pgsql/database.inc" afterPath="$PROJECT_DIR$/includes/database/pgsql/database.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/database/sqlite/database.inc" afterPath="$PROJECT_DIR$/includes/database/sqlite/database.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/database_test.info" afterPath="$PROJECT_DIR$/modules/simpletest/tests/database_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/database_test.test" afterPath="$PROJECT_DIR$/modules/simpletest/tests/database_test.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/dblog/dblog.info" afterPath="$PROJECT_DIR$/modules/dblog/dblog.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/devel/devel.info" afterPath="$PROJECT_DIR$/sites/all/modules/devel/devel.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/devel/devel.module" afterPath="$PROJECT_DIR$/sites/all/modules/devel/devel.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/devel/devel_generate/devel_generate.info" afterPath="$PROJECT_DIR$/sites/all/modules/devel/devel_generate/devel_generate.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/devel/devel_node_access.info" afterPath="$PROJECT_DIR$/sites/all/modules/devel/devel_node_access.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/drupal_system_listing_compatible_test/drupal_system_listing_compatible_test.info" afterPath="$PROJECT_DIR$/modules/simpletest/tests/drupal_system_listing_compatible_test/drupal_system_listing_compatible_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/profiles/testing/modules/drupal_system_listing_compatible_test/drupal_system_listing_compatible_test.info" afterPath="$PROJECT_DIR$/profiles/testing/modules/drupal_system_listing_compatible_test/drupal_system_listing_compatible_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/drupal_system_listing_incompatible_test/drupal_system_listing_incompatible_test.info" afterPath="$PROJECT_DIR$/modules/simpletest/tests/drupal_system_listing_incompatible_test/drupal_system_listing_incompatible_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/profiles/testing/modules/drupal_system_listing_incompatible_test/drupal_system_listing_incompatible_test.info" afterPath="$PROJECT_DIR$/profiles/testing/modules/drupal_system_listing_incompatible_test/drupal_system_listing_incompatible_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/drupal_web_test_case.php" afterPath="$PROJECT_DIR$/modules/simpletest/drupal_web_test_case.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/entity.inc" afterPath="$PROJECT_DIR$/includes/entity.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/entity_cache_test.info" afterPath="$PROJECT_DIR$/modules/simpletest/tests/entity_cache_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/entity_cache_test_dependency.info" afterPath="$PROJECT_DIR$/modules/simpletest/tests/entity_cache_test_dependency.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/entity_crud_hook_test.info" afterPath="$PROJECT_DIR$/modules/simpletest/tests/entity_crud_hook_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/entity_query_access_test.info" afterPath="$PROJECT_DIR$/modules/simpletest/tests/entity_query_access_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/error_test.info" afterPath="$PROJECT_DIR$/modules/simpletest/tests/error_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/field/field.api.php" afterPath="$PROJECT_DIR$/modules/field/field.api.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/field/field.info" afterPath="$PROJECT_DIR$/modules/field/field.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/field/modules/field_sql_storage/field_sql_storage.info" afterPath="$PROJECT_DIR$/modules/field/modules/field_sql_storage/field_sql_storage.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/field/tests/field_test.info" afterPath="$PROJECT_DIR$/modules/field/tests/field_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/field_ui/field_ui.admin.inc" afterPath="$PROJECT_DIR$/modules/field_ui/field_ui.admin.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/field_ui/field_ui.info" afterPath="$PROJECT_DIR$/modules/field_ui/field_ui.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/file/file.field.inc" afterPath="$PROJECT_DIR$/modules/file/file.field.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/file.inc" afterPath="$PROJECT_DIR$/includes/file.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/file/file.info" afterPath="$PROJECT_DIR$/modules/file/file.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/file/file.js" afterPath="$PROJECT_DIR$/modules/file/file.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/file/file.module" afterPath="$PROJECT_DIR$/modules/file/file.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/file/tests/file_module_test.info" afterPath="$PROJECT_DIR$/modules/file/tests/file_module_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/file_test.info" afterPath="$PROJECT_DIR$/modules/simpletest/tests/file_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/filter/filter.info" afterPath="$PROJECT_DIR$/modules/filter/filter.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/filter/filter.module" afterPath="$PROJECT_DIR$/modules/filter/filter.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/filter_test.info" afterPath="$PROJECT_DIR$/modules/simpletest/tests/filter_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/form.inc" afterPath="$PROJECT_DIR$/includes/form.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/form.test" afterPath="$PROJECT_DIR$/modules/simpletest/tests/form.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/form_test.info" afterPath="$PROJECT_DIR$/modules/simpletest/tests/form_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/form_test.module" afterPath="$PROJECT_DIR$/modules/simpletest/tests/form_test.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/forum/forum.info" afterPath="$PROJECT_DIR$/modules/forum/forum.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/garland/garland.info" afterPath="$PROJECT_DIR$/themes/garland/garland.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/help/help.info" afterPath="$PROJECT_DIR$/modules/help/help.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/image/image.admin.inc" afterPath="$PROJECT_DIR$/modules/image/image.admin.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/system/image.gd.inc" afterPath="$PROJECT_DIR$/modules/system/image.gd.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/image/image.info" afterPath="$PROJECT_DIR$/modules/image/image.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/image/tests/image_module_test.info" afterPath="$PROJECT_DIR$/modules/image/tests/image_module_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/image_test.info" afterPath="$PROJECT_DIR$/modules/simpletest/tests/image_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/iso.inc" afterPath="$PROJECT_DIR$/includes/iso.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery-ui-i18n.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery-ui-i18n.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery-ui-i18n.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery-ui-i18n.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/jquery-ui.css" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/jquery-ui.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/jquery-ui.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/jquery-ui.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery-ui.min.css" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery-ui.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery-ui.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery-ui.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/jquery.ui.accordion.css" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/jquery.ui.accordion.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/jquery.ui.accordion.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/jquery.ui.accordion.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.accordion.min.css" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.accordion.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.accordion.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.accordion.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/jquery.ui.all.css" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/jquery.ui.all.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/jquery.ui.autocomplete.css" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/jquery.ui.autocomplete.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/jquery.ui.autocomplete.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/jquery.ui.autocomplete.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.autocomplete.min.css" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.autocomplete.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.autocomplete.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.autocomplete.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/jquery.ui.base.css" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/jquery.ui.base.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/jquery.ui.button.css" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/jquery.ui.button.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/jquery.ui.button.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/jquery.ui.button.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.button.min.css" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.button.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.button.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.button.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/jquery.ui.core.css" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/jquery.ui.core.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/jquery.ui.core.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/jquery.ui.core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-af.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-af.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-af.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-af.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-ar-DZ.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-ar-DZ.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-ar-DZ.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-ar-DZ.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-ar.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-ar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-ar.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-ar.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-az.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-az.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-az.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-az.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-bg.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-bg.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-bg.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-bg.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-bs.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-bs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-bs.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-bs.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-ca.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-ca.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-ca.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-ca.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-cs.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-cs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-cs.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-cs.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-da.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-da.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-da.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-da.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-de.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-de.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-de.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-de.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-el.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-el.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-el.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-el.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-en-AU.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-en-AU.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-en-GB.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-en-GB.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-en-GB.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-en-GB.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-en-NZ.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-en-NZ.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-eo.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-eo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-eo.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-eo.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-es.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-es.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-es.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-es.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-et.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-et.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-et.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-et.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-eu.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-eu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-eu.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-eu.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-fa.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-fa.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-fa.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-fa.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-fi.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-fi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-fi.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-fi.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-fo.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-fo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-fo.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-fo.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-fr-CH.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-fr-CH.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-fr-CH.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-fr-CH.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-fr.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-fr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-fr.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-fr.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-gl.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-gl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-gl.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-gl.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-he.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-he.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-he.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-he.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-hr.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-hr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-hr.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-hr.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-hu.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-hu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-hu.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-hu.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-hy.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-hy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-hy.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-hy.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-id.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-id.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-id.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-id.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-is.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-is.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-is.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-is.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-it.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-it.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-it.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-it.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-ja.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-ja.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-ja.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-ja.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-ko.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-ko.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-ko.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-ko.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-lt.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-lt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-lt.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-lt.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-lv.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-lv.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-lv.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-lv.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-ml.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-ml.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-ml.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-ml.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-ms.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-ms.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-ms.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-ms.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-nl.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-nl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-nl.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-nl.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-no.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-no.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-no.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-no.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-pl.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-pl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-pl.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-pl.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-pt-BR.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-pt-BR.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-pt-BR.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-pt-BR.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-pt.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-pt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-pt.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-pt.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-rm.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-rm.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-rm.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-rm.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-ro.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-ro.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-ro.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-ro.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-ru.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-ru.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-ru.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-ru.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-sk.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-sk.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-sk.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-sk.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-sl.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-sl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-sl.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-sl.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-sq.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-sq.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-sq.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-sq.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-sr-SR.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-sr-SR.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-sr-SR.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-sr-SR.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-sr.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-sr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-sr.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-sr.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-sv.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-sv.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-sv.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-sv.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-ta.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-ta.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-ta.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-ta.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-th.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-th.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-th.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-th.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-tj.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-tj.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-tj.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-tj.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-tr.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-tr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-tr.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-tr.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-uk.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-uk.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-uk.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-uk.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-vi.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-vi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-vi.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-vi.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-zh-CN.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-zh-CN.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-zh-CN.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-zh-CN.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-zh-HK.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-zh-HK.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-zh-HK.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-zh-HK.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-zh-TW.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/i18n/jquery.ui.datepicker-zh-TW.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-zh-TW.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/i18n/jquery.ui.datepicker-zh-TW.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/jquery.ui.datepicker.css" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/jquery.ui.datepicker.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/jquery.ui.datepicker.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/jquery.ui.datepicker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.datepicker.min.css" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.datepicker.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.datepicker.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.datepicker.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/jquery.ui.dialog.css" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/jquery.ui.dialog.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/jquery.ui.dialog.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/jquery.ui.dialog.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.dialog.min.css" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.dialog.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.dialog.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.dialog.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/jquery.ui.draggable.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/jquery.ui.draggable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.draggable.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.draggable.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/jquery.ui.droppable.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/jquery.ui.droppable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.droppable.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.droppable.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/jquery.ui.mouse.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/jquery.ui.mouse.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.mouse.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.mouse.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/jquery.ui.position.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/jquery.ui.position.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.position.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.position.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/jquery.ui.progressbar.css" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/jquery.ui.progressbar.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/jquery.ui.progressbar.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/jquery.ui.progressbar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.progressbar.min.css" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.progressbar.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.progressbar.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.progressbar.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/jquery.ui.resizable.css" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/jquery.ui.resizable.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/jquery.ui.resizable.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/jquery.ui.resizable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.resizable.min.css" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.resizable.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.resizable.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.resizable.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/jquery.ui.selectable.css" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/jquery.ui.selectable.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/jquery.ui.selectable.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/jquery.ui.selectable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.selectable.min.css" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.selectable.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.selectable.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.selectable.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/jquery.ui.slider.css" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/jquery.ui.slider.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/jquery.ui.slider.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/jquery.ui.slider.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.slider.min.css" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.slider.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.slider.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.slider.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/jquery.ui.sortable.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/jquery.ui.sortable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.sortable.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.sortable.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/jquery.ui.tabs.css" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/jquery.ui.tabs.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/jquery.ui.tabs.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/jquery.ui.tabs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.tabs.min.css" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.tabs.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.tabs.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.tabs.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/jquery.ui.theme.css" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/jquery.ui.theme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/jquery.ui.widget.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/jquery.ui.widget.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.widget.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.widget.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/jquery_update.info" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/jquery_update.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/jquery_update.install" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/jquery_update.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/jquery_update.module" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/jquery_update.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/field/modules/list/list.info" afterPath="$PROJECT_DIR$/modules/field/modules/list/list.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/field/modules/list/tests/list_test.info" afterPath="$PROJECT_DIR$/modules/field/modules/list/tests/list_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/locale/locale.info" afterPath="$PROJECT_DIR$/modules/locale/locale.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/locale/tests/locale_test.info" afterPath="$PROJECT_DIR$/modules/locale/tests/locale_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/menu.inc" afterPath="$PROJECT_DIR$/includes/menu.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/menu/menu.info" afterPath="$PROJECT_DIR$/modules/menu/menu.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/menu_test.info" afterPath="$PROJECT_DIR$/modules/simpletest/tests/menu_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/profiles/minimal/minimal.info" afterPath="$PROJECT_DIR$/profiles/minimal/minimal.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/module_test.info" afterPath="$PROJECT_DIR$/modules/simpletest/tests/module_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/node/node.admin.inc" afterPath="$PROJECT_DIR$/modules/node/node.admin.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/node/node.api.php" afterPath="$PROJECT_DIR$/modules/node/node.api.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/node/node.info" afterPath="$PROJECT_DIR$/modules/node/node.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/node/node.module" afterPath="$PROJECT_DIR$/modules/node/node.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/node/node.test" afterPath="$PROJECT_DIR$/modules/node/node.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/node/node.tokens.inc" afterPath="$PROJECT_DIR$/modules/node/node.tokens.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/node/tests/node_access_test.info" afterPath="$PROJECT_DIR$/modules/node/tests/node_access_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/node/tests/node_test.info" afterPath="$PROJECT_DIR$/modules/node/tests/node_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/node/tests/node_test_exception.info" afterPath="$PROJECT_DIR$/modules/node/tests/node_test_exception.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/field/modules/number/number.info" afterPath="$PROJECT_DIR$/modules/field/modules/number/number.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/openid/openid.info" afterPath="$PROJECT_DIR$/modules/openid/openid.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/openid/tests/openid_test.info" afterPath="$PROJECT_DIR$/modules/openid/tests/openid_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/field/modules/options/options.info" afterPath="$PROJECT_DIR$/modules/field/modules/options/options.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/overlay/overlay.info" afterPath="$PROJECT_DIR$/modules/overlay/overlay.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/path.inc" afterPath="$PROJECT_DIR$/includes/path.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/path/path.info" afterPath="$PROJECT_DIR$/modules/path/path.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/path_test.info" afterPath="$PROJECT_DIR$/modules/simpletest/tests/path_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/php/php.info" afterPath="$PROJECT_DIR$/modules/php/php.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/poll/poll.info" afterPath="$PROJECT_DIR$/modules/poll/poll.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/profile/profile.info" afterPath="$PROJECT_DIR$/modules/profile/profile.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/psr_0_test/psr_0_test.info" afterPath="$PROJECT_DIR$/modules/simpletest/tests/psr_0_test/psr_0_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/external/qunit.css" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/external/qunit.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/external/qunit.js" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/external/qunit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/rdf/rdf.info" afterPath="$PROJECT_DIR$/modules/rdf/rdf.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/rdf/tests/rdf_test.info" afterPath="$PROJECT_DIR$/modules/rdf/tests/rdf_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/registry.inc" afterPath="$PROJECT_DIR$/includes/registry.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/requirements1_test.info" afterPath="$PROJECT_DIR$/modules/simpletest/tests/requirements1_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/requirements2_test.info" afterPath="$PROJECT_DIR$/modules/simpletest/tests/requirements2_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/search/search.info" afterPath="$PROJECT_DIR$/modules/search/search.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/search/search.test" afterPath="$PROJECT_DIR$/modules/search/search.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/search/tests/search_embedded_form.info" afterPath="$PROJECT_DIR$/modules/search/tests/search_embedded_form.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/search/tests/search_extra_type.info" afterPath="$PROJECT_DIR$/modules/search/tests/search_extra_type.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/database/select.inc" afterPath="$PROJECT_DIR$/includes/database/select.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/session_test.info" afterPath="$PROJECT_DIR$/modules/simpletest/tests/session_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/seven/seven.info" afterPath="$PROJECT_DIR$/themes/seven/seven.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/shortcut/shortcut.info" afterPath="$PROJECT_DIR$/modules/shortcut/shortcut.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/simpletest.info" afterPath="$PROJECT_DIR$/modules/simpletest/simpletest.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/profiles/standard/standard.info" afterPath="$PROJECT_DIR$/profiles/standard/standard.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/stark/stark.info" afterPath="$PROJECT_DIR$/themes/stark/stark.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/statistics/statistics.info" afterPath="$PROJECT_DIR$/modules/statistics/statistics.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/survey/css/style.css" afterPath="$PROJECT_DIR$/sites/all/themes/survey/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/syslog/syslog.info" afterPath="$PROJECT_DIR$/modules/syslog/syslog.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/system/system.admin.inc" afterPath="$PROJECT_DIR$/modules/system/system.admin.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/system/system.api.php" afterPath="$PROJECT_DIR$/modules/system/system.api.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/system/system.info" afterPath="$PROJECT_DIR$/modules/system/system.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/system/system.module" afterPath="$PROJECT_DIR$/modules/system/system.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/system/system.test" afterPath="$PROJECT_DIR$/modules/system/system.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/system_dependencies_test.info" afterPath="$PROJECT_DIR$/modules/simpletest/tests/system_dependencies_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/system_incompatible_core_version_dependencies_test.info" afterPath="$PROJECT_DIR$/modules/simpletest/tests/system_incompatible_core_version_dependencies_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/system_incompatible_core_version_test.info" afterPath="$PROJECT_DIR$/modules/simpletest/tests/system_incompatible_core_version_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/system_incompatible_module_version_dependencies_test.info" afterPath="$PROJECT_DIR$/modules/simpletest/tests/system_incompatible_module_version_dependencies_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/system_incompatible_module_version_test.info" afterPath="$PROJECT_DIR$/modules/simpletest/tests/system_incompatible_module_version_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/system_test.info" afterPath="$PROJECT_DIR$/modules/simpletest/tests/system_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/system_test.module" afterPath="$PROJECT_DIR$/modules/simpletest/tests/system_test.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/taxonomy/taxonomy.info" afterPath="$PROJECT_DIR$/modules/taxonomy/taxonomy.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/taxonomy/taxonomy.install" afterPath="$PROJECT_DIR$/modules/taxonomy/taxonomy.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/taxonomy/taxonomy.module" afterPath="$PROJECT_DIR$/modules/taxonomy/taxonomy.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/taxonomy/taxonomy.test" afterPath="$PROJECT_DIR$/modules/taxonomy/taxonomy.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/taxonomy_test.info" afterPath="$PROJECT_DIR$/modules/simpletest/tests/taxonomy_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/themes/test_basetheme/test_basetheme.info" afterPath="$PROJECT_DIR$/modules/simpletest/tests/themes/test_basetheme/test_basetheme.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/themes/test_subtheme/test_subtheme.info" afterPath="$PROJECT_DIR$/modules/simpletest/tests/themes/test_subtheme/test_subtheme.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/themes/test_theme/test_theme.info" afterPath="$PROJECT_DIR$/modules/simpletest/tests/themes/test_theme/test_theme.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/profiles/testing/testing.info" afterPath="$PROJECT_DIR$/profiles/testing/testing.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/field/modules/text/text.info" afterPath="$PROJECT_DIR$/modules/field/modules/text/text.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/theme_test.info" afterPath="$PROJECT_DIR$/modules/simpletest/tests/theme_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/toolbar/toolbar.info" afterPath="$PROJECT_DIR$/modules/toolbar/toolbar.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/tracker/tracker.info" afterPath="$PROJECT_DIR$/modules/tracker/tracker.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/tracker/tracker.pages.inc" afterPath="$PROJECT_DIR$/modules/tracker/tracker.pages.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/translation/translation.info" afterPath="$PROJECT_DIR$/modules/translation/translation.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/translation/tests/translation_test.info" afterPath="$PROJECT_DIR$/modules/translation/tests/translation_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/trigger/trigger.info" afterPath="$PROJECT_DIR$/modules/trigger/trigger.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/trigger/tests/trigger_test.info" afterPath="$PROJECT_DIR$/modules/trigger/tests/trigger_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/update/update.info" afterPath="$PROJECT_DIR$/modules/update/update.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/update/update.module" afterPath="$PROJECT_DIR$/modules/update/update.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/update_script_test.info" afterPath="$PROJECT_DIR$/modules/simpletest/tests/update_script_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/update/tests/update_test.info" afterPath="$PROJECT_DIR$/modules/update/tests/update_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/update_test_1.info" afterPath="$PROJECT_DIR$/modules/simpletest/tests/update_test_1.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/update_test_2.info" afterPath="$PROJECT_DIR$/modules/simpletest/tests/update_test_2.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/update_test_3.info" afterPath="$PROJECT_DIR$/modules/simpletest/tests/update_test_3.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/update/tests/themes/update_test_basetheme/update_test_basetheme.info" afterPath="$PROJECT_DIR$/modules/update/tests/themes/update_test_basetheme/update_test_basetheme.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/update/tests/themes/update_test_subtheme/update_test_subtheme.info" afterPath="$PROJECT_DIR$/modules/update/tests/themes/update_test_subtheme/update_test_subtheme.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/url_alter_test.info" afterPath="$PROJECT_DIR$/modules/simpletest/tests/url_alter_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/user/user.info" afterPath="$PROJECT_DIR$/modules/user/user.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/user/user.module" afterPath="$PROJECT_DIR$/modules/user/user.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/user/tests/user_form_test.info" afterPath="$PROJECT_DIR$/modules/user/tests/user_form_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/version.txt" afterPath="$PROJECT_DIR$/sites/all/modules/jquery_update/replace/ui/version.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wind/wind.module" afterPath="$PROJECT_DIR$/sites/all/modules/wind/wind.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/simpletest/tests/xmlrpc_test.info" afterPath="$PROJECT_DIR$/modules/simpletest/tests/xmlrpc_test.info" />
+    </list>
+    <ignored path="drupal-7.26.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="582ce23a-d346-42e8-815a-eab515f7f60d" time="1402582229017" ignored="false" />
+    <file path="/survey.info" changelist="582ce23a-d346-42e8-815a-eab515f7f60d" time="1399566186457" ignored="false" />
+    <file path="/bootstrap_subtheme.info.starterkit" changelist="582ce23a-d346-42e8-815a-eab515f7f60d" time="1394658165142" ignored="false" />
+    <file path="/page.tpl.php" changelist="582ce23a-d346-42e8-815a-eab515f7f60d" time="1400270725003" ignored="false" />
+    <file path="/wind.info" changelist="582ce23a-d346-42e8-815a-eab515f7f60d" time="1402687050646" ignored="false" />
+    <file path="/main.css" changelist="582ce23a-d346-42e8-815a-eab515f7f60d" time="1396628779394" ignored="false" />
+    <file path="/style.css" changelist="582ce23a-d346-42e8-815a-eab515f7f60d" time="1403208013662" ignored="false" />
+    <file path="/wind.module" changelist="582ce23a-d346-42e8-815a-eab515f7f60d" time="1403033854613" ignored="false" />
+    <file path="/node--webform.tpl.php" changelist="582ce23a-d346-42e8-815a-eab515f7f60d" time="1400268395031" ignored="false" />
+    <file path="/page-webform.tpl.php" changelist="582ce23a-d346-42e8-815a-eab515f7f60d" time="1399563950214" ignored="false" />
+    <file path="/template.php" changelist="582ce23a-d346-42e8-815a-eab515f7f60d" time="1399564492103" ignored="false" />
+    <file path="/page--webform.tpl.php" changelist="582ce23a-d346-42e8-815a-eab515f7f60d" time="1400270884818" ignored="false" />
+    <file path="/page-node-webform.tpl.php" changelist="582ce23a-d346-42e8-815a-eab515f7f60d" time="1399563924987" ignored="false" />
+    <file path="/page--node--webform.tpl.php" changelist="582ce23a-d346-42e8-815a-eab515f7f60d" time="1399563938668" ignored="false" />
+    <file path="/page--node.tpl.php" changelist="582ce23a-d346-42e8-815a-eab515f7f60d" time="1399565015350" ignored="false" />
+    <file path="/page_webform.tpl.php" changelist="582ce23a-d346-42e8-815a-eab515f7f60d" time="1399566048772" ignored="false" />
+    <file path="/page-webform-2.tpl.php" changelist="582ce23a-d346-42e8-815a-eab515f7f60d" time="1399566617983" ignored="false" />
+    <file path="/wind.pages.inc" changelist="582ce23a-d346-42e8-815a-eab515f7f60d" time="1401914529793" ignored="false" />
+    <file path="/wind.install" changelist="582ce23a-d346-42e8-815a-eab515f7f60d" time="1402674524356" ignored="false" />
+    <file path="/page--front.tpl.php" changelist="582ce23a-d346-42e8-815a-eab515f7f60d" time="1403206166406" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="drupal-7.26" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="wind.module" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/modules/wind/wind.module">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="160" column="0" selection-start="4377" selection-end="4377" vertical-scroll-proportion="-29.12">
+              <folding>
+                <marker date="1403034807389" expanded="true" signature="1587:1628" placeholder="/** * Implem..." />
+                <marker date="1403034807389" expanded="true" signature="2098:2247" placeholder="/** * Implem..." />
+                <marker date="1403034807389" expanded="true" signature="2387:2561" placeholder="/** * Defaul..." />
+                <marker date="1403034807389" expanded="true" signature="2696:2739" placeholder="/** * Implem..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="html.tpl.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/survey/templates/html.tpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding>
+                <marker date="1394659270499" expanded="true" signature="20:85" placeholder="..." />
+                <marker date="1394659270499" expanded="true" signature="93:148" placeholder="..." />
+                <marker date="1394659270499" expanded="true" signature="156:204" placeholder="..." />
+                <marker date="1394659270499" expanded="true" signature="250:1329" placeholder="..." />
+                <marker date="1394659270499" expanded="true" signature="274:771" placeholder="..." />
+                <marker date="1394659270499" expanded="true" signature="630:731" placeholder="..." />
+                <marker date="1394659270499" expanded="true" signature="812:1321" placeholder="..." />
+                <marker date="1394659270499" expanded="true" signature="865:998" placeholder="..." />
+                <marker date="1394659270499" expanded="true" signature="1008:1221" placeholder="..." />
+                <marker date="1394659270499" expanded="true" signature="1049:1206" placeholder="..." />
+                <marker date="1394659270499" expanded="true" signature="1142:1174" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page.tpl.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/survey/templates/page.tpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="7107" vertical-scroll-proportion="26.44">
+              <folding>
+                <marker date="1400270738474" expanded="true" signature="3364:4875" placeholder="..." />
+                <marker date="1400270738474" expanded="true" signature="3390:4865" placeholder="..." />
+                <marker date="1400270738474" expanded="true" signature="3422:4252" placeholder="..." />
+                <marker date="1400270738474" expanded="true" signature="3562:3649" placeholder="..." />
+                <marker date="1400270738474" expanded="true" signature="4053:4241" placeholder="..." />
+                <marker date="1400270738474" expanded="true" signature="4395:4836" placeholder="..." />
+                <marker date="1400270738474" expanded="true" signature="4427:4823" placeholder="..." />
+                <marker date="1400270738474" expanded="true" signature="4915:6595" placeholder="..." />
+                <marker date="1400270738474" expanded="true" signature="4958:5130" placeholder="..." />
+                <marker date="1400270738474" expanded="true" signature="5174:6588" placeholder="..." />
+                <marker date="1400270738474" expanded="true" signature="5277:5347" placeholder="..." />
+                <marker date="1400270738474" expanded="true" signature="5408:6356" placeholder="..." />
+                <marker date="1400270738474" expanded="true" signature="6460:6531" placeholder="..." />
+                <marker date="1400270738474" expanded="true" signature="6619:7105" placeholder="..." />
+                <marker date="1400270738474" expanded="true" signature="6647:7095" placeholder="..." />
+                <marker date="1400270738474" expanded="true" signature="6721:7084" placeholder="..." />
+                <marker date="1400270738474" expanded="true" signature="6756:6836" placeholder="..." />
+                <marker date="1400270738474" expanded="true" signature="6871:6953" placeholder="..." />
+                <marker date="1400270738474" expanded="true" signature="6988:7069" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page--front.tpl.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/survey/templates/page--front.tpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="119" column="0" selection-start="5013" selection-end="5013" vertical-scroll-proportion="-28.28">
+              <folding>
+                <element signature="e#6#3287#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/survey/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="77" selection-start="454" selection-end="454" vertical-scroll-proportion="0.11832374">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/sites/all/themes/bootstrap/bootstrap_subtheme/template.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/survey/templates/page--node.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/survey/templates/page--node--2.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/survey/templates/page-webform-2.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/survey/template.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/survey/templates/webform-form.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/survey/templates/node--webform.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/survey/templates/webform--form.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/survey/templates/page.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/survey/templates/page--webform.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/modules/wind/wind.pages.inc" />
+        <option value="$PROJECT_DIR$/sites/all/modules/wind/wind.info" />
+        <option value="$PROJECT_DIR$/sites/all/modules/wind/wind.install" />
+        <option value="$PROJECT_DIR$/sites/all/modules/wind/wind.module" />
+        <option value="$PROJECT_DIR$/sites/all/themes/survey/templates/page--front.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/survey/css/style.css" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1280" />
+    <option name="height" value="1400" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal-7.26" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal-7.26" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal-7.26" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal-7.26" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal-7.26" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal-7.26" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal-7.26" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal-7.26" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal-7.26" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal-7.26" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal-7.26" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="survey" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal-7.26" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal-7.26" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="survey" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal-7.26" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal-7.26" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="survey" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal-7.26" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal-7.26" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="survey" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal-7.26" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal-7.26" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal-7.26" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal-7.26" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wind" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal-7.26" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal-7.26" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webform" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal-7.26" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal-7.26" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="survey_builder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal-7.26" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal-7.26" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jquery_update" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal-7.26" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal-7.26" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="devel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal-7.26" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupal-7.26" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="preferences.fileTypes" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="PublishConfig">
+    <servers>
+      <server id="ab3d11eb-6634-45aa-918c-36ae7dadbdb6">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+    </servers>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\workspace\survey\website\drupal-7.26\sites\all\themes\survey" />
+      <recent name="C:\xampp\htdocs\workspace\survey\website\drupal-7.26\sites\all\modules\wind" />
+      <recent name="C:\xampp\htdocs\workspace\survey\website\drupal-7.26\sites\all\themes\survey\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\workspace\survey\website\drupal-7.26\sites\all\themes\survey\templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="582ce23a-d346-42e8-815a-eab515f7f60d" name="Default" comment="" />
+      <created>1394648576839</created>
+      <updated>1394648576839</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="1400" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2454844" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/devel/devel_krumo_path.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="46" selection-start="852" selection-end="852" vertical-scroll-proportion="0.33222592" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/jquery_update/jquery_update.install">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/survey_builder/survey_builder.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/jquery_update/jquery_update.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="391" selection-end="391" vertical-scroll-proportion="0.19720624">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/webform/webform.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="57" selection-start="564" selection-end="564" vertical-scroll-proportion="0.19720624">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/survey_builder/survey_builder.install">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="272" column="3" selection-start="8249" selection-end="8249" vertical-scroll-proportion="0.70469797">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/wind/wind.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/wind/wind.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="160" column="0" selection-start="4377" selection-end="4377" vertical-scroll-proportion="-29.12">
+          <folding>
+            <marker date="1403034807389" expanded="true" signature="1587:1628" placeholder="/** * Implem..." />
+            <marker date="1403034807389" expanded="true" signature="2098:2247" placeholder="/** * Implem..." />
+            <marker date="1403034807389" expanded="true" signature="2387:2561" placeholder="/** * Defaul..." />
+            <marker date="1403034807389" expanded="true" signature="2696:2739" placeholder="/** * Implem..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/survey/templates/page.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="7107" vertical-scroll-proportion="26.44">
+          <folding>
+            <marker date="1400270738474" expanded="true" signature="3364:4875" placeholder="..." />
+            <marker date="1400270738474" expanded="true" signature="3390:4865" placeholder="..." />
+            <marker date="1400270738474" expanded="true" signature="3422:4252" placeholder="..." />
+            <marker date="1400270738474" expanded="true" signature="3562:3649" placeholder="..." />
+            <marker date="1400270738474" expanded="true" signature="4053:4241" placeholder="..." />
+            <marker date="1400270738474" expanded="true" signature="4395:4836" placeholder="..." />
+            <marker date="1400270738474" expanded="true" signature="4427:4823" placeholder="..." />
+            <marker date="1400270738474" expanded="true" signature="4915:6595" placeholder="..." />
+            <marker date="1400270738474" expanded="true" signature="4958:5130" placeholder="..." />
+            <marker date="1400270738474" expanded="true" signature="5174:6588" placeholder="..." />
+            <marker date="1400270738474" expanded="true" signature="5277:5347" placeholder="..." />
+            <marker date="1400270738474" expanded="true" signature="5408:6356" placeholder="..." />
+            <marker date="1400270738474" expanded="true" signature="6460:6531" placeholder="..." />
+            <marker date="1400270738474" expanded="true" signature="6619:7105" placeholder="..." />
+            <marker date="1400270738474" expanded="true" signature="6647:7095" placeholder="..." />
+            <marker date="1400270738474" expanded="true" signature="6721:7084" placeholder="..." />
+            <marker date="1400270738474" expanded="true" signature="6756:6836" placeholder="..." />
+            <marker date="1400270738474" expanded="true" signature="6871:6953" placeholder="..." />
+            <marker date="1400270738474" expanded="true" signature="6988:7069" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/survey/templates/html.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1394659270499" expanded="true" signature="20:85" placeholder="..." />
+            <marker date="1394659270499" expanded="true" signature="93:148" placeholder="..." />
+            <marker date="1394659270499" expanded="true" signature="156:204" placeholder="..." />
+            <marker date="1394659270499" expanded="true" signature="250:1329" placeholder="..." />
+            <marker date="1394659270499" expanded="true" signature="274:771" placeholder="..." />
+            <marker date="1394659270499" expanded="true" signature="630:731" placeholder="..." />
+            <marker date="1394659270499" expanded="true" signature="812:1321" placeholder="..." />
+            <marker date="1394659270499" expanded="true" signature="865:998" placeholder="..." />
+            <marker date="1394659270499" expanded="true" signature="1008:1221" placeholder="..." />
+            <marker date="1394659270499" expanded="true" signature="1049:1206" placeholder="..." />
+            <marker date="1394659270499" expanded="true" signature="1142:1174" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/wind/wind.install">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="1" selection-start="1706" selection-end="1706" vertical-scroll-proportion="0.5033557">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/webform/webform.install">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="531" column="51" selection-start="17835" selection-end="17884" vertical-scroll-proportion="0.48854962">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/survey/survey.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="34" selection-start="354" selection-end="361" vertical-scroll-proportion="0.2006689">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/survey/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/survey/templates/page--front.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="119" column="0" selection-start="5013" selection-end="5013" vertical-scroll-proportion="-28.28">
+          <folding>
+            <element signature="e#6#3287#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/survey/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="77" selection-start="454" selection-end="454" vertical-scroll-proportion="0.11832374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

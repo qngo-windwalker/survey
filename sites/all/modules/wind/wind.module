@@ -23,6 +23,36 @@ function wind_permission(){
     );
 }
 
+function wind_get_count($user_uid, $profile_uid){
+    // %d = integer
+//    $result = db_query("SELECT view_count FROM {wind} WHERE wind_id = %d", $user_uid);
+//    $result = db_query("SELECT view_count FROM {wind} WHERE wind_id = %d", 0);
+    $result = db_query("SELECT view_count FROM {wind} WHERE wind_id = :uid", array(':uid' => $user_uid));
+
+//    echo (int) $result->fetchField();
+
+    return $result;
+}
+
+/**
+ * Set a view count for a profile.
+ */
+function wind_set_count(){
+//    $result = db_query('UPDATE {wind} SET view_count = :uid WHERE wind_id = :wid', array(':uid' => 0, ':wid' => 0));
+    $result = db_update('wind')
+        ->expression('view_count', 'view_count + :view_count', array(':view_count' => 1))
+        ->condition('wind_id', 1, '=')
+        ->condition('profile_id', 1, '=')
+        ->execute();
+
+    dsm($result);
+    if($result == 0){
+        db_query('INSERT INTO {wind} (wind_id, profile_id, view_count) VALUES (:wid, :pid, :vcount)',
+            array(':wid' => 1, ':pid' => 1, 'vcount' => 1 )
+        );
+    }
+}
+
 /**
  * Implementation of user_view().
  */
@@ -30,6 +60,9 @@ function wind_user_view($account, $view_mode, $langcode){
 //    echo $account->roles[3];
 //    $markup =  theme('foo', array('fuck' => 'you'));
     $markup =  theme('foo', $account->roles);
+
+    wind_get_count(0,0);
+    wind_set_count(0,0);
 
     $account->content['summary']['role'] = array(
         '#type' => 'user_profile_item',
@@ -96,7 +129,50 @@ function wind_menu(){
 }
 
 function wind_admin_settings(){
-    return 'hello world.';
+    return drupal_get_form("wind_settings_form");
+}
+
+function wind_settings_form(){
+    $form = array();
+    $form['wind_threshold'] = array(
+        '#type' => 'textfield',
+        '#title' => t('Windwakler threshold'),
+        '#description' => t('User who view the profile will be pushed'),
+        '#default_value' => variable_get('stalker_threshold', 1),
+        '#required' => TRUE,
+    );
+
+    $form['modes'] = array(
+        '#type' => 'fieldset',
+        '#title' => t('Modes of operation'),
+    );
+
+    $form['modes']['project_identity'] = array(
+        '#type' => 'checkbox',
+        '#title' => t('Project number'),
+        '#description' => t('Select the project number'),
+        '#default_value' => variable_get('project_identity', FALSE),
+    );
+
+    $form['submit'] = array(
+        '#type' => 'submit',
+        '#value' => t('Save settings'),
+    );
+
+    return $form;
+}
+
+function wind_settings_form_validate(&$form, &$form_state){
+    dsm($form_state);
+    if (!is_numeric($form_state['values']['wind_threshold'])){
+        form_set_error('wind_threshold', t('You must be a number for the threshold.'));
+    } else if ($form_state['values']['wind_threshold'] < 1){
+        form_set_error('wind_threshold', t('The Wind threshold must be greater than zero.'));
+    }
+}
+
+function wind_settings_form_submit(&$form, &$form_state){
+    variable_set('project_identity', $form_state['values']['project_identity']);
 }
 /*
  *
